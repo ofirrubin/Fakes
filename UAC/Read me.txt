@@ -1,0 +1,29 @@
+Making the program runnable:
+	The form1 takes: string filePath=null, string fileName=null, string publisher=null, string userName_=null
+	Default values:
+   	   string FilePath => "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\devenv.exe"
+     	   string Publisher => "Microsoft Corporation"
+     	   string FileName => "Microsoft Visual Studio 2019"
+     	   string userName => "admin"
+
+
+Improving the experience:
+	* Windows orginal wallpaper loads the fastest as it uses cached file.
+	* Using the orginal values will make the app load a little bit faster as it doesn't change values.
+	
+
+	*Changing files properties by using "Resource Hacker":
+		Install Resource Hacker.
+		Edit file properties such as publisher, version, orginal name etc. and save it.
+		
+
+	*Changing icon - The easiest way:
+		Create a shortcut to the program.
+		In the shortcut properties change the icon to the wanted icon.
+
+	#Getting the orginal icon using "Resource Hacker":
+		Open the orginal .exe file using Resource Hacker, look for the icons folder and save the icon any where you want.
+		Try change the icon using the shortcut method. If " ... contain no icons.." error raised: use https://www.convertico.com/ to reformate the orginal icon and try again.
+	
+
+
