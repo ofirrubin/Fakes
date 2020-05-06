@@ -1,0 +1,8 @@
+D:\New Hard Drive Reset Files\ \Steam\SteamDuplicate\bin\Debug\SteamDuplicate.exe.config
+D:\New Hard Drive Reset Files\ \Steam\SteamDuplicate\bin\Debug\SteamDuplicate.exe
+D:\New Hard Drive Reset Files\ \Steam\SteamDuplicate\bin\Debug\SteamDuplicate.pdb
+D:\New Hard Drive Reset Files\ \Steam\SteamDuplicate\obj\Debug\SteamDuplicate.Form1.resources
+D:\New Hard Drive Reset Files\ \Steam\SteamDuplicate\obj\Debug\SteamDuplicate.Properties.Resources.resources
+D:\New Hard Drive Reset Files\ \Steam\SteamDuplicate\obj\Debug\SteamDuplicate.csproj.GenerateResource.cache
+D:\New Hard Drive Reset Files\ \Steam\SteamDuplicate\obj\Debug\SteamDuplicate.exe
+D:\New Hard Drive Reset Files\ \Steam\SteamDuplicate\obj\Debug\SteamDuplicate.pdb
